@@ -1,0 +1,2 @@
+# example-nvim-plugin
+test
